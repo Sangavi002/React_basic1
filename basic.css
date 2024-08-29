@@ -1,0 +1,38 @@
+body{
+    padding: 30px;
+    font-family: sans-serif;
+}
+#title{
+    margin-bottom: 0px;
+}
+#price{
+    margin-top: 0px;
+}
+#desc{
+    color: gray;
+}
+.category{
+    color: orange;
+}
+#feature div{
+    width: 50%;
+    margin-top: -20px;
+}
+ul{
+    padding-left: 0px;
+}
+#feature{
+    display: flex;
+    flex-direction: row;
+}
+button{
+    width: 100%;
+    padding: 11px;
+    background: black;
+    color: white;
+    font-size: 18px;
+}
+center  img{
+    width: 3%;
+    margin-top: 30px;
+}
